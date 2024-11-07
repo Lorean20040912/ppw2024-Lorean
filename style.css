@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
-  } 
-  {
-    company-title 
-  } 
+  }
+  .big {
+    font-size: 78px;
+    color: blue;
+  }
